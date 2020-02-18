@@ -1,0 +1,31 @@
+00,Control temperature (Hot water cylinder),°C
+01,Control temperature (Zone1),°C
+02,Control temperature (Zone2),°C
+03,Remote controller sensor temperature,°C
+04,Condensed temperature (TC),°C
+06,Water inlet temperature (TWI),°C
+07,Water outlet temperature (TWO),°C
+08,Water heater outlet temperature (THO),°C
+09,Floor inlet temperature (TFI),°C
+0A,Hot water cylinder temperature (TTW),°C
+0B,Mixing valve position,step
+OE,Low pressure (Ps),MPa
+60,Heat exchange temperature (TE),°C
+61,Outside air temperature (TO),°C
+62,Discharge temperature (TD),°C
+63,Suction temperature (TS),°C
+65,Heat sink temperature (THS),°C
+6A,Current,A
+6D,Heat exchanger coil temperature (TL),°C
+70,Compressor operation Hz,Hz
+72,Number of revolutions of outdoor fan (lower),rpm
+73,Number of revolutions of outdoor fan (upper),rpm
+74,Outdoor PMV position × 1/10,pls
+F0,Micro computer energized accumulation time,× 100h
+F1,Hot water compressor ON accumulation time,× 100h
+F2,Cooling compressor ON accumulation time,× 100h
+F3,Heating compressor ON accumulation time,× 100h
+F4,Built-in AC pump operation accumulation time,× 100h
+F5,Hot water cylinder heater operation accumulation time,× 100h
+F6,Backup heater operation accumulation time,× 100h
+F7,Booster heater operation accumulation time,× 100h
